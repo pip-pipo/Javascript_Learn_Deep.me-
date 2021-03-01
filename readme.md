@@ -5,7 +5,7 @@
 ## Table of Contents
 
 
-
+```
 Javascript Basics2
 Variables2
 Arrays3
@@ -20,6 +20,8 @@ Dealing with Dates12
 DOM Node14
 Working with the Browser18
 Events21Errors
+```
+
 
 Including Comments
 
