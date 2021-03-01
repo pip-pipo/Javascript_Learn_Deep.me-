@@ -1,6 +1,6 @@
 # Javascript_Learn_Deep.me-😎
 
-# Give a start for this work
+# Give a star👋🏻😅 for this work
 
 ## Table of Contents
 
