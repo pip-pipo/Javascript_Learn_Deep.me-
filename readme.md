@@ -1,5 +1,25 @@
 # Javascript_Learn_Deep.me-😎
 
+# Give a start for this work
+
+## Table of Contents
+
+
+
+Javascript Basics2
+Variables2
+Arrays3
+Operators4
+Functions5
+Loops7
+If - Else Statements7
+Strings7
+Regular Expressions9
+Numbers and Math10
+Dealing with Dates12
+DOM Node14
+Working with the Browser18
+Events21Errors
 
 Including Comments
 
@@ -38,14 +58,9 @@ Objects
 
 Objects are certain kinds of variables. They are variables that can have their own values and methods. The latter are actions that you can perform on objects.
 
-
-
-
 The Next Level: Arrays
 
 Next up in our JavaScript cheat sheet are arrays. Arrays are part of many different programming languages. They are a way of organizing variables and properties into groups. Here’s how to create one in JavaScript:
-
-
 
 Now you have an array called fruit which contains three items that you can use for future operations.
 Array Methods
@@ -67,7 +82,6 @@ Once you have created arrays, there are a few things you can do with them:
     unshift() —Adds a new element to the beginning
     valueOf() — Returns the primitive value of the specified object
 
-
 Operators
 
 If you have variables, you can use them to perform different kinds of operations. To do so, you need operators.
@@ -81,7 +95,6 @@ Basic Operators
     % — Modulus (remainder )
     ++ — Increment numbers
     -- — Decrement numbers
-
 
 Comparison Operators
 
@@ -115,9 +128,8 @@ Functions
 
 JavaScript functions are blocks of code that perform a certain task. A basic function looks like this:
 
-
 function name(parameter1, parameter2, parameter3) {
-    // what the function does
+// what the function does
 }
 
 As you can see, it consists of the function keyword plus a name. The function’s parameters are in the brackets and you have curly brackets around what the function performs. You can create your own, but to make your life easier – there are also a number of default functions.
@@ -150,7 +162,7 @@ JavaScript Loops
 
 Loops are part of most programming languages. They allow you to execute blocks of code desired number of times with different values:
 for (before loop; condition for loop; execute after loop) {
-    // what to do during the loop
+// what to do during the loop
 }
 
 You have several parameters to create loops:
@@ -165,9 +177,9 @@ If – Else Statements
 
 These types of statements are easy to understand. Using them, you can set conditions for when your code is executed. If certain conditions apply, something is done, if not – something else is executed.
 if (condition) {
-    // what to do if condition is met
+// what to do if condition is met
 } else {
-    // what to do if condition is not met
+// what to do if condition is not met
 }
 
 A similar concept to if else is the switch statement. However, using the switch you select one of several code blocks to execute.
