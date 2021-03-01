@@ -1,0 +1,7 @@
+
+
+# Javascript_Learn_Deep.me-😎
+
+
+Javascript BasicsIncluding JavaScript in an HTML Page<script type="text/javascript">  //JS code goes here</script>Call an External JavaScript File<script src="myscript.js"></script><code></code>Including Comments//Single line comments/* comment here */Multi-line commentsVariablesvar, const, letvarThe most common variable. Can be reassigned but only accessed within a function. Variablesdefined with var move to the top when code is executed.constCannot be reassigned and not accessible before they appear within the code.letSimilar to const, however, let variable can be reassigned but not re-declared.Data Typesvar age = 23Numbersvar xVariablesWebsiteSetup.org - Beginner’s Javascript Cheat Sheet                                                                                      ​  ​2
+var a = "init"Text (strings)var b = 1 + 2 + 3Operationsvar c = trueTrue or false statementsconst PI = 3.14Constant numbersvar name = {firstName:"John", lastName:”Doe"}ObjectsObjectsvar person = {  firstName:"John",  lastName:"Doe",  age:20,  nationality:"German"};Arraysvar fruit = ["Banana", "Apple", "Pear"];Array Methodsconcat()Join several arrays into oneindexOf()Returns the first position at which a given element appears in an arrayjoin()Combine elements of an array into a single string and return the stringlastIndexOf()Gives the last position at which a given element appears in an arrayWebsiteSetup.org - Beginner’s Javascript Cheat Sheet                                
